@@ -11,4 +11,6 @@ module "AADDS"
   AzureSubscriptionId = "${var.AzureSubscriptionId}"
   ManagedDomainName = "${var.ManagedDomainName}"
   pw = "${var.pw}"
+  Appid = "${var.Appid}"
+  thumb = "${var.thumb}"
 }
