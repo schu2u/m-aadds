@@ -6,3 +6,5 @@ variable "ResourceGroupName" {default = ""}
 variable "VnetName" {default = ""}
 variable "AzureLocation" {default = ""}
 variable "pw" {default = ""}
+variable "Appid" {default = ""}
+variable "thumb" {default = ""}
